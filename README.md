@@ -15,4 +15,7 @@ will be used to construct the website. I am also learning about Git which
 makes this project a perfect time to practice it.
 
 ### Reflection:
-After I finish the project I will update this file to write my reflection.
+Overall, I found the project to be a fun way to practice HTML. I used only
+HTML and only the elements shown in the unit. It was not very difficult
+or intensive due to the limited amount of elements at my disposal and
+lack of CSS. I'm excited to see what the rest of the course has to offer!
