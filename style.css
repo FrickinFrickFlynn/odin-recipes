@@ -2,8 +2,8 @@ body {
 	font-family: 'Lucida Grande', monospace;
 	width: 600px;
 	margin: 0 auto;
-	padding: 10px;
-	background-image: url("https://gratisography.com/wp-content/uploads/2021/01/gratisogarphy-distressed-brick-free-stock-photo-1168x780.jpg");
+	padding: 30px;
+	background: url("https://gratisography.com/wp-content/uploads/2021/01/gratisogarphy-distressed-brick-free-stock-photo-1168x780.jpg");
 	background-size: 100%;
 }
 
@@ -22,6 +22,8 @@ body {
 h1 {
 	text-align: center;
 	margin-top: -5px;
+	letter-spacing: 5px;
+	font-weight: bolder;
 }
 
 .main-picture {
@@ -35,4 +37,52 @@ p {
 	text-align: center;
 	width: 60%;
 	margin: 5px auto;
+}
+
+ul {
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+	margin: -35px 15px;
+	padding: 0;
+}
+
+#frylock {
+	margin: 5px 15px -55px;
+}
+
+#meatwad {
+	margin-bottom: 5px;
+}
+
+.icon {
+	height: 100px;
+	width: auto;
+	display: inline-block;
+}
+
+.icon-text {
+	display: inline-block;
+	position: relative;
+}
+
+#meatwad-icon {
+	height: 75px;
+}
+
+#meatwad-text {
+	margin: 0 100px;
+	bottom: 30px;
+}
+
+#shake-text {
+	margin: 0 40px 0 125px;
+	bottom: 35px;
+}
+
+#frylock-text {
+	margin: 0 50px 0 65px;
+	bottom: 35px;
 }
